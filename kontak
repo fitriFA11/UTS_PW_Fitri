@@ -23,11 +23,11 @@
         class="navbar-logo"><img src="img/logobg - Copy.png"></a>
         <div class="navbar-nav">
             <ul class="data-list">
-                <li class="active"><a href="http://localhost/web_statis/About">Tentang</a></li>
-                <li><a href="http://localhost/web_statis/aboutmenu">Menu</a></li>
-                <li><a href="http://localhost/web_statis/Kolaborasi.html">Kolaborasi</a></li>
-                <li><a href="http://localhost/web_statis/lokasi.html">Temui Kami</a></li>
-                <li><a href="http://localhost/web_statis/kontak">Hubungi Kami</li></a>
+                <li class="active"><a href="http://web_statis/About">Tentang</a></li>
+                <li><a href="http://web_statis/aboutmenu">Menu</a></li>
+                <li><a href="http://web_statis/Kolaborasi.html">Kolaborasi</a></li>
+                <li><a href="http://web_statis/lokasi.html">Temui Kami</a></li>
+                <li><a href="http://web_statis/kontak">Hubungi Kami</li></a>
             </ul>
         </div>
         <div class="navbar-extra">
@@ -74,11 +74,11 @@
         </div>
 
         <div class="links">
-            <a href="http://localhost/web_statis/About">Tentang</a>
-            <a href="http://localhost/web_statis/aboutmenu">Menu</a>
-            <a href="http://localhost/web_statis/Kolaborasi.html">Kolaborasi</a>
-            <a href="http://localhost/web_statis/lokasi.html">Temui Kami</a>
-            <a href="http://localhost/web_statis/kontak">Kontak</a>
+            <a href="http://web_statis/About">Tentang</a>
+            <a href="http://web_statis/aboutmenu">Menu</a>
+            <a href="http://web_statis/Kolaborasi.html">Kolaborasi</a>
+            <a href="http://web_statis/lokasi.html">Temui Kami</a>
+            <a href="http://web_statis/kontak">Kontak</a>
         </div>
         <div class="creadit">
             <p>Created by <a href="">Fitri Fajriyah Ashari - 11210251000128 - 5B Ilmu Perpustakaan</a>. &copy; 2023.</p>
